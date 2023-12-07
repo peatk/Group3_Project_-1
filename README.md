@@ -13,6 +13,8 @@ Key Features Include: Accessing free API's to fetch pertinent data
   
   https://apidocs.geoapify.com/playground/geocoding/ 
 
+Conclusive Analysis The results show the top 10 states with the highest median pay, and 17 cities located within those states. There was no recordable correlation between projected employment growth rate in an area and median salary. The data obtained was used to determine the states and cities with the highest salaries. These values were then compared that with the median salary of Data Scientists on the national level. The states that had the highest salaries also did not indicate higher projected job growth.
+
 ### Heat Mapping
 ![Alt Text](https://github.com/peatk/Group3_Project_-1/blob/main/graphs/Heatmap.png)
 
@@ -37,8 +39,5 @@ Key Features Include: Accessing free API's to fetch pertinent data
 
 #### Median Salary vs Growth Rate
 ![Alt Text](https://github.com/peatk/Group3_Project_-1/blob/main/graphs/scatter_MedianSalary_GrowthRate.png)
-
-Conclusive Analysis The results show the top 10 states with the highest median pay, and 17 cities located within those states. There was no recordable correlation between projected employment growth rate in an area and median salary. The data obtained was used to determine the states and cities with the highest salaries. These values were then compared that with the median salary of Data Scientists on the national level. The states that had the highest salaries also did not indicate higher projected job growth.
-
 
 
