@@ -6,8 +6,11 @@ The Geoapify API was used to create a heat map which allowed for a visualization
 
 Key Features Include: Accessing free API's to fetch pertinent data https://api.careeronestop.org/api-explorer/home/index/Occupations_GetOccupationDetails https://apidocs.geoapify.com/playground/geocoding/ https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html
 
-Bar Plots
+### Bar Plots
+#### State vs National Graph
+![Alt Text](https://github.com/peatk/Group3_Project_-1/blob/main/graphs/SvNMed.jpg)
 
+#### City vs National Graph
 ![Alt Text](https://github.com/peatk/Group3_Project_-1/blob/main/graphs/CvNMed.jpg)
 
 Scatter Plots
