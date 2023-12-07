@@ -23,7 +23,8 @@ Key Features Include: Accessing free API's to fetch pertinent data https://api.c
 ![Alt Text](https://github.com/peatk/Group3_Project_-1/blob/main/graphs/download.png)
 
 ### Scatter Plots
-    
+### Jobs Per Capita Median Salary
+![Alt Text](https://github.com/peatk/Group3_Project_-1/blob/main/graphs/scatter_JobsPerCapita_MedianSalary.png)
 
     heatmap_with_colorbar.html
 Bar Plots: Median salary at the city, state, and national level, with the highest median salary in the top 10 states as the focal point. Scatter Plots: Analyze the correlation between employment growth and median salary through scatter plots.
