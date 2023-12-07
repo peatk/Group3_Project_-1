@@ -13,10 +13,14 @@ Key Features Include: Accessing free API's to fetch pertinent data https://api.c
 #### State vs National Graph
 ![Alt Text](https://github.com/peatk/Group3_Project_-1/blob/main/graphs/SvNMed.jpg)
 
+#### City vs State Graph
+![Alt Text](https://github.com/peatk/Group3_Project_-1/blob/main/graphs/CvSMedian.jpg)
+
 #### City vs National Graph
 ![Alt Text](https://github.com/peatk/Group3_Project_-1/blob/main/graphs/CvNMed.jpg)
 
-https://github.com/peatk/Group3_Project_-1/blob/main/graphs/CvSMedian.jpg
+#### Expected vs Projected Graph
+
 
 ### Scatter Plots
     
