@@ -5,7 +5,11 @@ Finding the Best Places to work as a Data Scientist in the US Overview This proj
 
 The Geoapify API was used to create a heat map which allowed for a visualization of individual states' median salary across the nation. Further examination of these data points identified which states were to be considered the best places to work for data scientists. Additionally, an assessment of estimated employment vs projected employment was conducted to gain greater insight of the Data Scientist job market growth.
 
-Key Features Include: Accessing free API's to fetch pertinent data https://api.careeronestop.org/api-explorer/home/index/Occupations_GetOccupationDetails https://apidocs.geoapify.com/playground/geocoding/ https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html
+Key Features Include: Accessing free API's to fetch pertinent data 
+https://api.careeronestop.org/api-explorer/home/index/Occupations_GetOccupationDetails 
+https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html
+https://apidocs.geoapify.com/playground/geocoding/ 
+
 ### Heat Mapping
 ![Alt Text](https://github.com/peatk/Group3_Project_-1/blob/main/graphs/Heatmap.png)
 
