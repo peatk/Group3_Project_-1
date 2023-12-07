@@ -9,6 +9,7 @@ Key Features Include: Accessing free API's to fetch pertinent data https://api.c
 ### Heat Mapping
 ![Alt Text](https://github.com/peatk/Group3_Project_-1/blob/main/graphs/Heatmap.png)
 
+
 ### Bar Plots:
 #### State vs National Graph
 ![Alt Text](https://github.com/peatk/Group3_Project_-1/blob/main/graphs/SvNMed.jpg)
@@ -22,14 +23,13 @@ Key Features Include: Accessing free API's to fetch pertinent data https://api.c
 #### Expected vs Projected Graph
 ![Alt Text](https://github.com/peatk/Group3_Project_-1/blob/main/graphs/download.png)
 
-### Scatter Plots
+
+### Scatter Plots:
 #### Jobs Per Capita vs Median Salary
 ![Alt Text](https://github.com/peatk/Group3_Project_-1/blob/main/graphs/scatter_JobsPerCapita_MedianSalary.png)
 
-#### Jobs Per Capita vs Median Salary
+#### Median Salary vs Growth Rate
 ![Alt Text](https://github.com/peatk/Group3_Project_-1/blob/main/graphs/scatter_MedianSalary_GrowthRate.png)
-
-Bar Plots: Median salary at the city, state, and national level, with the highest median salary in the top 10 states as the focal point. Scatter Plots: Analyze the correlation between employment growth and median salary through scatter plots.
 
 Conclusive Analysis The results show the top 10 states with the highest median pay, and 17 cities located within those states. There was no recordable correlation between projected employment growth rate in an area and median salary. The data obtained was used to determine the states and cities with the highest salaries. These values were then compared that with the median salary of Data Scientists on the national level. The states that had the highest salaries also did not indicate higher projected job growth.
 
