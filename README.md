@@ -7,7 +7,9 @@ The Geoapify API was used to create a heat map which allowed for a visualization
 
 Key Features Include: Accessing free API's to fetch pertinent data 
   https://api.careeronestop.org/api-explorer/home/index/Occupations_GetOccupationDetails 
+  
   https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html
+  
   https://apidocs.geoapify.com/playground/geocoding/ 
 
 ### Heat Mapping
