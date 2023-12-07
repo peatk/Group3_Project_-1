@@ -20,7 +20,7 @@ Key Features Include: Accessing free API's to fetch pertinent data https://api.c
 ![Alt Text](https://github.com/peatk/Group3_Project_-1/blob/main/graphs/CvNMed.jpg)
 
 #### Expected vs Projected Graph
-
+![Alt Text](https://github.com/peatk/Group3_Project_-1/blob/main/graphs/download.png)
 
 ### Scatter Plots
     
