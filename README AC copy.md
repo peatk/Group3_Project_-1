@@ -10,8 +10,9 @@ Key Features Include:
         https://api.careeronestop.org/api-explorer/home/index/Occupations_GetOccupationDetails
         https://apidocs.geoapify.com/playground/geocoding/
         https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html
+        
     Bar Plots
-        /files-pri/T05RRSF5Q3U-F069476HH5J/download.png
+        
     Scatter Plots
         
     Heat Mapping
